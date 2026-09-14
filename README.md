@@ -1,8 +1,6 @@
 <p align="center">
   <img src="src/assets/logo.jpg" alt="LevelUp" width="220" />
 </p>
-
-<h1 align="center">LevelUp</h1>
 <p align="center">The all-in-one workspace for student communities — events, learning, projects, achievements and recognition.</p>
 
 ## Screenshots
